@@ -1,0 +1,8 @@
+{
+  "source": "sample-10",
+  "observedAt": "2026-11-17T08:00:00.000Z",
+  "items": [
+    {"id": "10-A", "label": "餐饮供应链召回样例甲", "state": "active", "revision": 1},
+    {"id": "10-B", "label": "餐饮供应链召回样例乙", "state": "pending", "revision": 1}
+  ]
+}
